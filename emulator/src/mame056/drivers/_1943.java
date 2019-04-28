@@ -32,7 +32,7 @@ import static mame056.sound._2203intf.*;
 import static mame056.vidhrdw.generic.*;
 import static mame056.vidhrdw._1943.*;
 
-public class _19431 {
+public class _1943 {
 
     /* this is a protection check. The game crashes (thru a jump to 0x8000) */
  /* if a read from this address doesn't return the value it expects. */

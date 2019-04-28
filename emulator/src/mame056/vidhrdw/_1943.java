@@ -23,7 +23,7 @@ import static mame056.drawgfxH.*;
 
 import static mame056.vidhrdw.generic.*;
 
-public class _19431 {
+public class _1943 {
 
     public static UBytePtr c1943_scrollx = new UBytePtr();
     public static UBytePtr c1943_scrolly = new UBytePtr();
